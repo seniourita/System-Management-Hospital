@@ -6,7 +6,7 @@
 using namespace std;
 
 // Max patients
-const int MAX = 100;
+const int MAX = 1000000000;
 
 // Patient data
 int ID[MAX];
